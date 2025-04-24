@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student at SIUC studying for my B.S. in Computer Science.<br>I have 5 years of C++ and C# experience in video game development.<br>I'm currently working on two projects; AI Powered MoviesList, Portfolio Website
+I have 5 years of C++ and C# experience in video game development.<br>I'm currently working on two projects; AI Powered MoviesList, Portfolio Website
 
 
 ## 🌐 Socials:
