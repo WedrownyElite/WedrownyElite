@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have 5 years of C++ and C# experience in video game development.<br>I'm currently working on two projects; AI Powered MoviesList, Portfolio Website
+I have 5 years of C++ and C# experience in video game development.<br>I'm currently working on two projects; AI Powered MoviesList, my Portfolio Website and Speak For Me, a 3D Emotional Unity game with unique endings.
 
 
 ## 🌐 Socials:
