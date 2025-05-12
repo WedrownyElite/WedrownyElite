@@ -1,5 +1,6 @@
 # 💫 About Me:
-I have 5 years of C++ and C# experience in video game development.<br>I'm currently working on two projects; AI Powered MoviesList, my Portfolio Website and Speak For Me, <br>and my magnum opus, a 3D Emotional Unity game with unique endings.
+I have 5 years of C++ and C# experience in video game development.<br>I'm currently working on two projects; AI Powered MoviesList, my Portfolio Website and my magnum opus, a 3D Emotional Unity game with unique endings called Speak For Me.
+<br>Follow the development of Speak For Me on my website!
 
 ## 💼 My Projects
 https://oddologyinc.com
