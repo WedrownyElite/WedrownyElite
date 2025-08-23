@@ -3,10 +3,10 @@ I have 5 years of C++ and C# experience in video game development.<br>I'm curren
 <br>Follow the development of Speak For Me on my website!
 
 ## 💼 My Projects
-https://oddologyinc.com
+[OddologyInc Portfolio](https://oddologyinc.com)
 
 ## 🌈 MoodFlow
-https://moodflow.oddologyinc.com
+[MoodFlow GitHub Repo](https://moodflow.oddologyinc.com)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100010189336770) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/WedrownyElite) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krzysztof-m-sliwinski) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oddologyinc@gmail.com) 
