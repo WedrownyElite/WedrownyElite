@@ -5,8 +5,8 @@ I have 5 years of C++ and C# experience in video game development.<br>I'm curren
 ## 💼 My Projects
 [OddologyInc Portfolio](https://oddologyinc.com)
 
-## 🌈 MoodFlow
-[MoodFlow GitHub Repo](https://moodflow.oddologyinc.com)
+## 🌈 Self Sync
+[Self Sync Website](https://moodflow.oddologyinc.com)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100010189336770) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/WedrownyElite) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krzysztof-m-sliwinski) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:oddologyinc@gmail.com) 
